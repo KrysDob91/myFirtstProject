@@ -1,0 +1,128 @@
+input{
+    margin: 0 auto 0 auto;
+    border: 0px;
+    margin: 55px auto 0 50px;
+}
+input[type=submit]{
+    background-color: #ff9b51;
+    color: white;
+    width: 100%;
+    margin: 0px;
+}
+label{
+    background-color: wheat;
+    margin: 0 auto 0 auto;
+}
+.calosc{
+    margin: 0 auto;
+    width: 1400px;
+}
+
+.navbar{
+ height: 70px;   
+ background-color: black;
+}
+
+.leftnavbar{
+    width: 50%;
+    height: 70px;
+    float: left;
+}
+
+.leftnavbar img{
+    margin: 20px 0 20px 150px;
+    height: 30px;
+}
+
+.rightnavbar{
+    float: left;
+    width: 50%;
+    height: 100%;
+    line-height: 70px;
+    color: gray;
+}
+
+.navbarpkt {
+    margin: 0;
+}
+
+.navbarpkt li{
+    float: left;
+    list-style-type: none;
+    margin: 0 30px;
+} 
+
+.header{
+    background-repeat: no-repeat;
+    background-image: url(grafika/navbar/bgheader.png);
+    width: 100%;
+    height: 640px;
+}
+
+.headerleft{
+    float: left;
+    color: white;
+    width: 29%;
+    margin: 110px 0 0 150px;
+}
+
+.headerright{
+    float: right;
+    margin: 130px 142px 0 0;
+    background-color: white;
+    width: 370px;
+    height: 370px;
+    border-radius: 10px;
+    text-align: center;
+}
+.headerright label{
+    background-color: #f5f5f5;
+    
+}
+.headerright input{
+    display: block;
+}
+.socialmedia{
+    height: 105px;
+    border-bottom: 2px solid #b7b7b7;
+    background-color: #f7f0f0;
+}
+.medialeft{
+    margin-left: 150px; 
+    width: 449px;
+    float: left;
+}
+.medialeft h3{
+    margin: 22px 0 12px 0;
+}
+.mediaright{
+    float: left;
+    
+}
+.poziom{
+    height: 585px;
+    border-bottom: 2px solid #b7b7b7;
+    clear: both;
+}
+.kolumna1{
+    float: left;
+    margin: 140px 50px 0 140px;
+}
+.kolumna2{
+    float: left;
+    width: 480px;
+    margin: 140px 50px 0 70px;
+}
+.kolumna3{
+    float: left;
+    margin: 140px 0 0 50px;
+}
+.poziomsidel{
+    float: left;
+    margin: 130px 97px 0 140px;
+}
+.poziomsider{
+    float: left;
+    width: 413px;
+    margin: 130px 0 97px 0;
+}
